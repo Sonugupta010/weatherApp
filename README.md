@@ -1,5 +1,5 @@
 # weatherApp
-you can visit the site by clicking link [weather-app-forecaste.vercel.app]
+you can visit the site by clicking link [(https://weather-app-forecaste.vercel.app/)]
 
 # Getting Started with Create React App
 
